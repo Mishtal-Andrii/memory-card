@@ -1,5 +1,5 @@
 ## Memory Cards
-[DEMO LINK](
+[DEMO LINK](https://mishtal-andrii.github.io/memory-card/)
 Flash card app for learning. Display, add and remove memory cards with questions and answers
 
 ## Project Specifications
